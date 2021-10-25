@@ -9,18 +9,14 @@
 <br />
 **<a href="mailto:%20SethThyer.Business@gmail.com?Subject=Want%27s%20To%20Chat!" >E-mail<a/>**
 <br />
-
 <br />
+ 
 ## I'll update my dotfiles from time to time, you're free to use them if you like.
+  
 <img src="desktop.png">
-
   
-  
-  
-  
-  
-  
-  
+<br />
+<br />
   
 ## Languages I've Used:
 <p>
@@ -28,4 +24,7 @@
   <br />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
