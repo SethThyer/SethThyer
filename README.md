@@ -14,7 +14,18 @@
 ## I'll update my dotfiles from time to time, you're free to use them if you like.
 <img src="desktop.png">
 
+  
+  
+  
+  
+  
+  
+  
+  
+## Languages I've Used:
 <p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+  <br />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
