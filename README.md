@@ -1,2 +1,7 @@
-I use Github to maintain projects and personal files accross machines
-<iframe src="https://open.spotify.com/embed/playlist/5LNxwtmNY8l4phuEMctYgi" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+# Hi, I'm Seth.
+#### I mainly use Github to maintain projects and personal files accross machines.
+
+## You Can Find Me At These Places 🌐:
+Twitter: https://twitter.com/Seth06098372
+Spotify: <a src=https://open.spotify.com/user/qwr2j3sfc6quajm51dtz54sde?si=c91e27cd71b4497a \>
+Email: <a src=mailto:%20SethThyer.Business@gmail.com?Subject=Want%27s%20To%20Chat! \>
