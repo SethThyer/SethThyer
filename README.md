@@ -10,4 +10,4 @@
 <br />
 
 ## I'll update my dotfiles from time to time, you're free to use them if you like.
-<img src={desktop.png}>
+<img src="desktop.png">
