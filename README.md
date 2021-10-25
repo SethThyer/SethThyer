@@ -2,9 +2,9 @@
 #### I mainly use Github to maintain projects and personal files accross machines.
 
 ## You Can Find Me At These Places 🌐:
-Twitter: https://twitter.com/Seth06098372
+<a href="https://twitter.com/Seth06098372" >Twitter<a/>
 <br />
-Spotify: <a href="https://open.spotify.com/user/qwr2j3sfc6quajm51dtz54sde?si=c91e27cd71b4497a" ><a/>
+<a href="https://open.spotify.com/user/qwr2j3sfc6quajm51dtz54sde?si=c91e27cd71b4497a" >Spotify<a/>
 <br />
-Email: <a href="mailto:%20SethThyer.Business@gmail.com?Subject=Want%27s%20To%20Chat!" ><a/>
+<a href="mailto:%20SethThyer.Business@gmail.com?Subject=Want%27s%20To%20Chat!" >E-mail<a/>
 <br />
