@@ -9,6 +9,7 @@
 <br />
 **<a href="mailto:%20SethThyer.Business@gmail.com?Subject=Want%27s%20To%20Chat!" >E-mail<a/>**
 <br />
+ **<a href="https://seththyer.itch.io/" >Itch.io<a/>**
 <br />
  
 ## I'll update my dotfiles from time to time, you're free to use them if you like.
