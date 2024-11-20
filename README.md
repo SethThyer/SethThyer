@@ -1,4 +1,4 @@
-<h3>Github is mid, buy your own server and store files there and locally.<h3/>
+<h3>Github is mid, I do everything from my vps<h3/>
 
 <br />
  **<a href="https://seththyer.itch.io/" >I have an Itch.io<a/>**
@@ -9,7 +9,8 @@
 <br />
 
  
-## The only thing I might maintain here will be my dotfiles
   
+<img src="desktop.png" alt="old dotfiles">
 <img src="desktop2.png" alt="dotfiles">
- <img src="2023-04-13_12-00.png" alt="new dotfiles">
+<img src="2023-04-13_12-00.png" alt="new dotfiles">
+<img src="dsktp3.png" alt="new new dotfiles">
